@@ -5,4 +5,5 @@ Acesse esse Site
 </a>
 
 <p>Canto superior direito vai em language e coloca ruby</p>
-<p>Agora é so copiar o codigo que esta em dog.rb e colar la e executar</p>
+
+<p>Agora é so selecionar algum codigo que termine com .rb colar la e executar</p>
